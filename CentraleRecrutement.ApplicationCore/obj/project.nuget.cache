@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQ7a1OuuvjyaroHjFUUfkr2LtPzXPSeVbbYwNRjQyWwizJ1Mxtkk2qoOAbFSd21RpNoLB5n8aATH22MF9duB3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chalg\\OneDrive\\Bureau\\.NET\\CentraleRecrutement_ASP.NET\\CentraleRecrutement.ApplicationCore\\CentraleRecrutement.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chalg\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

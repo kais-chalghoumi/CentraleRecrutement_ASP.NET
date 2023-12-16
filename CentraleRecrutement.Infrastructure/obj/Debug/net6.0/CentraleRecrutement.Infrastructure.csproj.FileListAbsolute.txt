@@ -1,0 +1,17 @@
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.AssemblyInfo.cs
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\bin\Debug\net6.0\CentraleRecrutement.Infrastructure.deps.json
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\bin\Debug\net6.0\CentraleRecrutement.Infrastructure.runtimeconfig.json
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\bin\Debug\net6.0\CentraleRecrutement.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\bin\Debug\net6.0\CentraleRecrutement.Infrastructure.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\bin\Debug\net6.0\CentraleRecrutement.ApplicationCore.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\bin\Debug\net6.0\CentraleRecrutement.ApplicationCore.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.csproj.CopyComplete
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\refint\CentraleRecrutement.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\CentraleRecrutement.Infrastructure.genruntimeconfig.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\CentraleRecrutement_ASP.NET\CentraleRecrutement.Infrastructure\obj\Debug\net6.0\ref\CentraleRecrutement.Infrastructure.dll
